@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anthony-yan,I'm Chinese.
-- 👀 I’m interested in magic-cube,pen spnning,and also(the most important!)code of C++.
+- 👋 Hi, I’m @Anthony-yan, I'm Chinese.
+- 👀 I’m interested in magic-cube, pen spnning,and also(the most important!)code of C++.
 - 🌱 I’m currently learning C++ algorithm.
 - 💞️ I’m looking to collaborate on C++ project.
-- 📫 How to reach me,that's my e-mail anthony@mocservice.com .Please send me e-mails!
+- 📫 How to reach me, that's my e-mail anthony@mocservice.com. Please send me e-mails!
 
 Welcome to reach me!(C++,always C++)
 
